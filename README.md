@@ -1,4 +1,4 @@
-# Real-Time-Log-Analysis-and-Anomaly-Detection
+# Real-Time Log Analysis and Anomaly Detection
 Streaming and Batch Data Engineering with Kafka, Spark &amp; HDFS
 
 
